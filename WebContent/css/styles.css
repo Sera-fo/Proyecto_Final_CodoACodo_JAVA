@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#barra{
+    background-color: rgb(72, 74, 74) !important;
+}
+
+.size{
+    font-size:15px;   
+}
+
+.letra{
+    text-decoration:wavy
+}
+
+.ticket{
+    color: rgb(35, 173, 35) !important;
+}
+
+.colorverde{
+    background-color: forestgreen !important;
+}
+
+.oradores{
+    text-align: center;
+    font-size: 15px;
+}
+
+#tarjetas{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#fondoTarjeta{
+    background-color: rgb(72, 74, 74);
+    color: white;
+}
+
+.orador{
+    font-size: 12px;
+}
+
+.footer{
+    background-color:rgb(65, 78, 118);
+}
+
+.textoFooter{
+    color: white !important; 
+}
